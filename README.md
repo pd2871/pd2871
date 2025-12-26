@@ -14,9 +14,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love to collaborate and connect to people involved in AI</b> </em>
 
-<a href="https://www.linkedin.com/in/pd2871/"><img align="left" alt="Prakash Dahal | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-
-
 <br><br>
 
 ### Languages and Tools:
